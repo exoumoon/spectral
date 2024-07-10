@@ -9,7 +9,7 @@ services:
             EULA: "TRUE"
             TYPE: "NEOFORGE"
             VERSION: "1.20.1"
-            PACKWIZ_URL: "https://raw.githubusercontent.com/mxxntype/spectral/main/pack.toml"
+            PACKWIZ_URL: "https://raw.githubusercontent.com/exoumoon/spectral/main/pack.toml"
 
             MEMORY: "12G"
             USE_AIKAR_FLAGS: "true"
@@ -21,7 +21,7 @@ services:
             ALLOW_FLIGHT: "true"
 
             MOTD: "Le server for cats :3"
-            ICON: "https://raw.githubusercontent.com/mxxntype/spectral/main/assets/icon.png"
+            ICON: "https://raw.githubusercontent.com/exoumoon/spectral/main/assets/icon.png"
 
             ONLINE_MODE: "false"
             # ENABLE_WHITELIST: "true"
