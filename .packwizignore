@@ -1,0 +1,6 @@
+*.md
+*.mrpack
+*.zip
+options.txt
+docker-compose.yml
+data/

@@ -1,0 +1,13 @@
+name = "Spectral"
+author = "mxxntype"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad89f9d67ebc01d80e2ac03d453776a913cca1f7b05b85e6d25d045e1723a06e"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

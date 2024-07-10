@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "Justfile"
+hash = "a48d63ac9932206714772d6bf779c0f12b021734d1dc459e0532c6d0dd1a77ee"
+
+[[files]]
+file = "assets/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "assets/icon.png"
+hash = "e5820a3b037c82b8c9e381481bd3b3bba9d850a03eae2c975537165db7eb1351"
+
+[[files]]
+file = "mods/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resourcepacks/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "shaderpacks/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

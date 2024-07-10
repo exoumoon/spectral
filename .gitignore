@@ -1,0 +1,6 @@
+# Exported packs in Modrinth and Curseforge formats.
+*.mrpack
+*.zip
+
+# The server's data lives there.
+/data
