@@ -14,6 +14,7 @@ services:
             MEMORY: "12G"
             USE_AIKAR_FLAGS: "true"
             ENABLE_AUTOPAUSE: "true"
+            VIEW_DISTANCE: 48
 
             MODE: "survival"
             DIFFICULTY: "hard"

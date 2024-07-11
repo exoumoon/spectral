@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "e9b705779fd3d97210499f00a71137cdfc2684a766cd82b32ff9cdf074d6af12"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "7bcf2072430cf9130d3f555e69e12875e4ca04eafdfe3ad6d63b0af77cbe53e0"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "6d0e3f9d3b64c03e9fd3ed9f6e3c927fe2d100878c88b2e9c5f2899b2ba1a817"
+
+[[files]]
+file = "config/emi.css"
+hash = "bf6f1b15a40124590c5a6af7116f04e5b53431f578d6e5d95551de7a7962e473"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "de06eae3b10b30d1863ebdf771d7fbe94e01140358343ee0e54d434494876591"
+
+[[files]]
+file = "config/firstperson.json"
+hash = "f20bab3bcca48dff04f3a5d28d9c31cb747846a3b1e19c9c725e07829867c211"
+
+[[files]]
+file = "config/fml.toml"
+hash = "024e779c2c3984cac4105d162162bfeab80854f1401794100497539ab59d0210"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "400fd2869b9a8e30b2b768f10adad096f7a9dab25a87732583c67c0750524970"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "4f7245becaf2aae72c87b2d12999365924f35f9afdb6443c426362939a31786b"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "557149f2dfba32230544f83c8d268cefead6cacd1480c041803cba26471623b8"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1bb5e8d62c6c1b08125d858ee8afca117f1d63c03abc0b37a31164aacbe637e5"
 metafile = true
