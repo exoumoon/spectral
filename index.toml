@@ -691,6 +691,11 @@ hash = "b95a1453b512d4d4f84cf4641e411f80b154de44d47ba3ce5721cbcd19fd4832"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight-refabricated.pw.toml"
 hash = "daca71df0455767c7b6400c99f76c983b6a55bf50163e954519ce2355b42af35"
 metafile = true
