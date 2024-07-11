@@ -53,6 +53,10 @@ file = "config/sodium-options.json"
 hash = "23f87ec3539818569c3f83fb17954c4249c11935f3acd66b5c84f3a7ccc7126d"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "01d183b466601f86f8357b7e7d44c4be8de33f9ffaed6328f9d549beca6a1904"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
