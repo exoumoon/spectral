@@ -1,13 +1,13 @@
 name = "e4mc"
-filename = "e4mc_minecraft-5.0.0-forge.jar"
+filename = "e4mc_minecraft-5.0.0-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/wRGFMf56/e4mc_minecraft-5.0.0-forge.jar"
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/bvr50NJe/e4mc_minecraft-5.0.0-fabric.jar"
 hash-format = "sha1"
-hash = "e58422a6553c2e0d62d947f7d388fef3b59cd54c"
+hash = "41f45402c2af136a8654688f23931d6ecde18f3c"
 
 [update]
 [update.modrinth]
 mod-id = "qANg5Jrr"
-version = "wRGFMf56"
+version = "bvr50NJe"

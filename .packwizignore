@@ -2,6 +2,7 @@
 *.md
 *.mrpack
 *.zip
+!shaderpacks/*.zip
 Justfile
 options.txt
 docker-compose.yml
