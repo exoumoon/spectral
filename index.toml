@@ -110,6 +110,11 @@ hash = "0bda93d4bb843448a0cd7a193a0cd3edc9736af45916c5c213147222065c6d04"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "c443c44ce7cbc0815b482a924d9ce7b60829f15c0004a7feea942290dd395558"
+metafile = true
+
+[[files]]
 file = "mods/autumnity.pw.toml"
 hash = "ad9187e9de71c0259c492269a0bdf2959c98a86822bd8575678172620fabd0dd"
 metafile = true
@@ -190,6 +195,11 @@ hash = "3267b1038c0ceb8d2474934caa263d568319842044618f01adf6411367cd8a8c"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "afa2e3216ee411af1c2b6f236c51ea1d92e683ae11cdcac01c832c473e121d74"
 metafile = true
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "673b81b2090bdce49d7743e8c4b3e8587d1106ad6d032f23148c39f7787a0bac"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -332,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "740e8bc5f6560bebe40b27bcc9fb6bc1adc2dbd489338cc70b00176427b3b5a3"
+metafile = true
+
+[[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "ffeca7f1daabe2d0296fde7b76f502a4cbb6476859c5e14b57194ec75fcbdb3a"
 metafile = true
 
 [[files]]
@@ -455,8 +475,23 @@ hash = "6a3db023b86c515b548f8200fdf70e36b13577978eec0dee34d5b6579218a4d0"
 metafile = true
 
 [[files]]
+file = "mods/forge-cit.pw.toml"
+hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "d8f9475d47f18632c3970d62a4231f85b8c31df3372ed10b640a35d17bac8709"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
@@ -477,6 +512,16 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "5102f261b8f95439d1026c2b119a4928bd7c3c2ba1fdf19f314d2a76e69e1580"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "bcc129101643d0643d4a52ec72bd7775ac8df5193b3becd625ed964f11c6abd8"
 metafile = true
 
 [[files]]
@@ -572,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "e95e338b86bd8bd7ee373260e9096b7fa1346695bc65f220f4107fb0e15221ea"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "c12c7694f8894ea30dfc0145c81f2b05ed8fbef69b4d49418fc8365676bc53c3"
 metafile = true
 
 [[files]]
@@ -755,6 +805,16 @@ hash = "66e9e789128d7640dd8427c767ecfb217cc44af8d1ef78153136b74b3b9c7b79"
 metafile = true
 
 [[files]]
+file = "mods/seasonal-lets-do.pw.toml"
+hash = "69e9ed32bd82b7f2e3ecfe24cd2d7255a63e1831a14ed3e3d3a9242da855c0e9"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "6e015d233059a8763979ecb7a270a2c7018399654817cc34a0d8be5b84304ee7"
 metafile = true
@@ -762,6 +822,21 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping-forge-updated.pw.toml"
+hash = "6706a2a24a1fe58c8170d05aea600a71910c766c7fb0c1b1313d3feb798fb63a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
 metafile = true
 
 [[files]]
@@ -795,16 +870,6 @@ hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
 metafile = true
 
 [[files]]
-file = "mods/third-person-shooting-zero.pw.toml"
-hash = "d01b0f43e42fafefe5148777b050f5fc41d92d0efaf2fddaac56e5a117faf105"
-metafile = true
-
-[[files]]
-file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "5eccdb64b62687ca55c77328601f8886f809619c86425e2863c424e925826690"
-metafile = true
-
-[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "427a4ac2edeca19b458978f01611b2be1179e325b609e3d56241f97c8415a789"
 metafile = true
@@ -812,11 +877,6 @@ metafile = true
 [[files]]
 file = "mods/valentines-blessing-lilypads-roses.pw.toml"
 hash = "84175e860305b5a9391a9579a136ed2d26d42a5ebcc6ef313a9213ee1e82995d"
-metafile = true
-
-[[files]]
-file = "mods/villages-and-pillages.pw.toml"
-hash = "66de45cabf3d1b269a56597b9062d0575142ea7962d3f8506d389e18d08e1c33"
 metafile = true
 
 [[files]]
