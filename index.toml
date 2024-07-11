@@ -825,11 +825,6 @@ hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
 
 [[files]]
-file = "mods/smooth-swapping-forge-updated.pw.toml"
-hash = "6706a2a24a1fe58c8170d05aea600a71910c766c7fb0c1b1313d3feb798fb63a"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
 metafile = true

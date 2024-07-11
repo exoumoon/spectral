@@ -8,8 +8,8 @@ services:
         environment:
             EULA: "TRUE"
             VERSION: "1.20.1"
-            TYPE: "NEOFORGE"
-            NEOFORGE_VERSION: "47.1.106"
+            TYPE: "FORGE"
+            FORGE_VERSION: "47.3.0"
             PACKWIZ_URL: "https://raw.githubusercontent.com/exoumoon/spectral/main/pack.toml"
 
             MEMORY: "12G"
