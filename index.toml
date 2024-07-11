@@ -1,6 +1,58 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "4c95c5a21ac7488ca32f01636c4907d5b42a82c30893f053113f036bbb6bbfd5"
+
+[[files]]
+file = "config/emi.css"
+hash = "796e52ea4bddd858aa0243af16e2dcdacdf0627bab3b67913277d73611de0bdb"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "6abc2fbf7e4a2b7be6bb7da45db27bf22e76f6a2b7dba583ebcb94ab35995e1c"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "dbec7cfc0261af7e32969ea3289b86decf72a0e241555f242ab6eee0b14ad777"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "8505543def32060aec67558ac0d67ff1d13290e1e2997d109cafad5f02f33262"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "ed697bbf273a0d524c1a60fa833f5a88b49951d2f47810c53a58cf0a6fce4a93"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "6ad1a01b0802160d9e48010a48f28577117330bc16ddc5c1bfad57e2613f0bb2"
+
+[[files]]
+file = "config/mythicmetals-config.json5"
+hash = "44654189e50465d2e257926e6bd538360335729b6fb2520b30f2c52cc8939a8d"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "49a5bfc20a4c54470c4448068e6efff3495673899c8385b89ea20c8ec3d052fc"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "23f87ec3539818569c3f83fb17954c4249c11935f3acd66b5c84f3a7ccc7126d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
@@ -577,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-obliterator.pw.toml"
-hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
+hash = "7ef9eaadf1dbe30b54bb36294ad838277bad60ac1e04b26cae83fb6139cb3994"
 metafile = true
 
 [[files]]
@@ -692,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
+hash = "e0ff6237f41b61f33ab261f1845bb588e134316d3dbb6433dfd0fde645e82bfd"
 metafile = true
 
 [[files]]
@@ -868,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-mod.pw.toml"
 hash = "927c71c5e1dd31b493cae432ed0bdfb074f52d2e9dbc6632a95c890e5ec04aa5"
+metafile = true
+
+[[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
 metafile = true
 
 [[files]]

@@ -12,4 +12,4 @@ restart:
     docker compose logs --follow
 
 export: refresh
-    packwiz modrinth export
+    packwiz modrinth export --output Spectral.mrpack
