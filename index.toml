@@ -661,11 +661,6 @@ hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
@@ -1203,11 +1198,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "708ac4fc4da8bba3f5aedcd8534bd15dee339aacbeb3f3f75b17f5a748c67679"
-metafile = true
-
-[[files]]
-file = "mods/smooth-gui.pw.toml"
-hash = "9f9c17df47abae853e3d8bd29820310f9e21e873edcdfb3aeab4fda3f4a00eef"
 metafile = true
 
 [[files]]
