@@ -628,11 +628,6 @@ hash = "d2fb9aba12d1c0bafcde37bc71ca679d10630386b01f235ea7ed651093c2905f"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "7ef9eaadf1dbe30b54bb36294ad838277bad60ac1e04b26cae83fb6139cb3994"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
 metafile = true
@@ -740,11 +735,6 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "b95a1453b512d4d4f84cf4641e411f80b154de44d47ba3ce5721cbcd19fd4832"
-metafile = true
-
-[[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "e0ff6237f41b61f33ab261f1845bb588e134316d3dbb6433dfd0fde645e82bfd"
 metafile = true
 
 [[files]]
