@@ -45,4 +45,5 @@ services:
                 /whitelist on
                 /whitelist add mxxntype
                 /op mxxntype
+                /gamerule keepInventory true
 

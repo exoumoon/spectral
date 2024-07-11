@@ -1,0 +1,13 @@
+name = "Roguelike Dungeons"
+filename = "RoguelikeDungeons-2.0.4-build4-1.20.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MFpvbNGE/versions/6ol44ejs/RoguelikeDungeons-2.0.4-build4-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "b8a3ad5eec5c2458dbaa239a3c783d2e56f718eb"
+
+[update]
+[update.modrinth]
+mod-id = "MFpvbNGE"
+version = "6ol44ejs"

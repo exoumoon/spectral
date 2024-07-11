@@ -1,0 +1,13 @@
+name = "Furniture Expanded"
+filename = "furnitureexpanded-1.1-1.20.1-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1ACi6eg/versions/2ftSHNkW/furnitureexpanded-1.1-1.20.1-FABRIC.jar"
+hash-format = "sha1"
+hash = "aa7d1b486893a8a0b17ab391780336a9f617f7d1"
+
+[update]
+[update.modrinth]
+mod-id = "U1ACi6eg"
+version = "2ftSHNkW"

@@ -1,0 +1,13 @@
+name = "Blissful Butterflies"
+filename = "blissful-butterflies-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j0MYRfsz/versions/2Weyox7U/blissful-butterflies-1.2.4.jar"
+hash-format = "sha1"
+hash = "bd5c52a40667cce848fa5c8239dc48733fe56790"
+
+[update]
+[update.modrinth]
+mod-id = "j0MYRfsz"
+version = "2Weyox7U"

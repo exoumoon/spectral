@@ -1,0 +1,13 @@
+name = "Bamboo Everything"
+filename = "BambooEverything-fabric-3.0.1-build.55+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cpRkny9R/versions/Saf0DF5b/BambooEverything-fabric-3.0.1-build.55%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "76f48d46a32bf0742203ff9d98e32ab5563af10a"
+
+[update]
+[update.modrinth]
+mod-id = "cpRkny9R"
+version = "Saf0DF5b"
