@@ -1,6 +1,7 @@
 # Exported packs in Modrinth and Curseforge formats.
 *.mrpack
 *.zip
+!shaderpacks/*.zip
 
 # The server's data lives there.
 /data

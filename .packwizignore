@@ -1,6 +1,9 @@
+.gitkeep
 *.md
 *.mrpack
 *.zip
+Justfile
 options.txt
 docker-compose.yml
 data/
+assets/
