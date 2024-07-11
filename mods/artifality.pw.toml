@@ -1,0 +1,13 @@
+name = "Artifality"
+filename = "artifality-0.6.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IsKsViE2/versions/YuxjUYTI/artifality-0.6.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "a8ee3bfb9def1913b9808c11f922fb209ed08522"
+
+[update]
+[update.modrinth]
+mod-id = "IsKsViE2"
+version = "YuxjUYTI"
