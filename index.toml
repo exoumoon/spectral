@@ -512,6 +512,11 @@ hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "34cae8159356aa6257340c0cfa0e4f13df5ed1d9f58eb50e68062a5a4e39de88"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
