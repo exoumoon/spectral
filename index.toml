@@ -1728,6 +1728,11 @@ hash = "26a9280a093721c7260962fb160fa18a345b313d99b0a7acf1f7ab9d2c349a45"
 metafile = true
 
 [[files]]
+file = "resourcepacks/twc.pw.toml"
+hash = "4bfaf0af5339a0865c71240b3c61153bd1afdcef5714b36f5365e320a7d701b6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unique-dark.pw.toml"
 hash = "5fcd2a421125741bf005de86e131c6e1d4e02a71c4df630ab6656c0363c50b7f"
 metafile = true
