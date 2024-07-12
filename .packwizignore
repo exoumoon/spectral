@@ -2,8 +2,10 @@
 *.md
 *.mrpack
 *.zip
+.*ignore
 !shaderpacks/*.zip
 Justfile
+Dockerfile
 docker-compose.yml
 data/
 assets/

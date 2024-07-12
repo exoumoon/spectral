@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Dockerfile"
-hash = "f6e361cf0a2c8e5944354d2bc8e71a6e9c0ecc5d9897c2540e122497c982d4a7"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "bffcddd55d28ce5f45fa045d5b288b99de5fa5e8be3b4d21bebc11402469f62d"
 
