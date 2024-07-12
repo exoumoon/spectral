@@ -69,6 +69,18 @@ file = "config/spelunkery-common.json"
 hash = "c4f64e6bfeee41b82d050e4d99b2053253b40da0178d371cb3a67f66d574b8d1"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "d39aa187ead698ee9cb8bff61431b8ac5edf63cd7ef9e5037af4ffee223ae5f5"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "b7e0e99fa409261c642f3f1e0c7ebca5e1a4d6b9f1260e2ebf097a4de5d041e2"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "01d183b466601f86f8357b7e7d44c4be8de33f9ffaed6328f9d549beca6a1904"
 
