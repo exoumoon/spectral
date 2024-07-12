@@ -10,7 +10,7 @@ hash = "bffcddd55d28ce5f45fa045d5b288b99de5fa5e8be3b4d21bebc11402469f62d"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+hash = "c942f035a30286144e7b55937b5de1c14fadd7afa60335a48af7fb882d434eae"
 
 [[files]]
 file = "config/c2me.toml"
@@ -62,7 +62,7 @@ hash = "44654189e50465d2e257926e6bd538360335729b6fb2520b30f2c52cc8939a8d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "49a5bfc20a4c54470c4448068e6efff3495673899c8385b89ea20c8ec3d052fc"
+hash = "16ff16acb48ecb4bd4d1f3b372e6f86eb158ce1f5562acc6ff4b3ea304916db9"
 
 [[files]]
 file = "config/sodium-options.json"
