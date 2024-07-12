@@ -17,6 +17,10 @@ file = "config/emi.css"
 hash = "796e52ea4bddd858aa0243af16e2dcdacdf0627bab3b67913277d73611de0bdb"
 
 [[files]]
+file = "config/enchdesc.json"
+hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "d8060d1b5e2680cc1c6d53dd5ba8788e35fbb063c724b1ef848f54061c161477"
 
@@ -58,7 +62,7 @@ hash = "44654189e50465d2e257926e6bd538360335729b6fb2520b30f2c52cc8939a8d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "16ff16acb48ecb4bd4d1f3b372e6f86eb158ce1f5562acc6ff4b3ea304916db9"
+hash = "68f6f24650b7f5297eb5762edef25a7a12b1adb3d7bd36bb6070ed09e617f8e7"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -82,7 +86,7 @@ hash = "b7e0e99fa409261c642f3f1e0c7ebca5e1a4d6b9f1260e2ebf097a4de5d041e2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "01d183b466601f86f8357b7e7d44c4be8de33f9ffaed6328f9d549beca6a1904"
+hash = "12570322747ecd67f676a27fd968cfe69beaed3677c139b12d20984656305d56"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -717,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "9e535e216a94ae292da6edab5969d06825a90d57ee8103582ba5d23b5fccc748"
 metafile = true
 
 [[files]]

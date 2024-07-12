@@ -133,6 +133,9 @@ key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
+key_key.azurelib.reload:key.keyboard.r
+key_key.azurelib.scope:key.keyboard.left.alt
+key_key.azurelib.fire:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
@@ -143,6 +146,7 @@ key_create.keyinfo.toolbelt:key.keyboard.unknown
 key_key.createbigcannons.pitch_mode:key.keyboard.c
 key_key.createbigcannons.fire_controlled_cannon:key.mouse.left
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.expandedstorage.open_config_screen:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
@@ -153,6 +157,7 @@ key_supplementaries.keybind.quiver:key.keyboard.v
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
+key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_Camera left:key.keyboard.unknown
 key_Camera right:key.keyboard.unknown
 key_Camera closer:key.keyboard.unknown
@@ -160,7 +165,7 @@ key_Camera farther:key.keyboard.unknown
 key_Camera up:key.keyboard.unknown
 key_Camera down:key.keyboard.unknown
 key_Swap shoulder:key.mouse.middle
-key_Toggle perspective:scancode.166
+key_Toggle perspective:key.keyboard.f5
 key_Free look:key.keyboard.unknown
 key_key.showmeyourskin.open_settings:key.keyboard.j
 key_key.showmeyourskin.global_toggle:key.keyboard.unknown
@@ -173,7 +178,48 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_3:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_4:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_5:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_6:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_7:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_8:key.keyboard.unknown
+key_keybindings.spell_engine.spell_hotbar_9:key.keyboard.unknown
+key_key.spyglass-improvements.use:key.keyboard.c
+key_key.things.place_item:key.keyboard.unknown
+key_key.things.openenderchest:key.keyboard.unknown
+key_key.things.toggle_socks_jump_boost:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.b
+key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+key_gui.xaero_toggle_slime:key.keyboard.unknown
+key_gui.xaero_toggle_grid:key.keyboard.unknown
+key_gui.xaero_toggle_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_gui.xaero_waypoints_key:key.keyboard.b
+key_gui.xaero_zoom_in:key.keyboard.unknown
+key_gui.xaero_zoom_out:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.equal
+key_gui.xaero_display_all_sets:key.keyboard.unknown
+key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
+key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
+key_gui.xaero_alternative_list_players:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
+key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.left.bracket
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.unknown
+key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -185,7 +231,7 @@ soundCategory_weather:0.5
 soundCategory_block:0.5
 soundCategory_hostile:0.5
 soundCategory_neutral:0.5
-soundCategory_player:0.5
+soundCategory_player:0.3
 soundCategory_ambient:0.05
 soundCategory_voice:0.5
 modelPart_cape:true
