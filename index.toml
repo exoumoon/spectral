@@ -449,6 +449,11 @@ hash = "9cf365671e3080bba51c7a433f20f719fec704018bb71ad17573b655fabec868"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "4e0de0f8b7921a609612cb1fd67721e801addc4f659b909ea9a1717cd131c80b"
 metafile = true
@@ -1506,6 +1511,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "e00cd603e92b6fe4721c930d5de2a7fb018b192033738767d828c91f08b43638"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "65c6a19fc252bbdba213abe2fa182ec1859fc6072d7ae26b564cbe7fac836852"
 metafile = true
 
 [[files]]
