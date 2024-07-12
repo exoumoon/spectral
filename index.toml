@@ -509,6 +509,11 @@ hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "e563a3aade07a19a87d59aa18222f1800a8c5f71af8c37046f0ce3b8a2a7a006"
 metafile = true
@@ -701,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "b596d10a9b700d570d729f2f04b892d1a7715c5af434a998dc0c15a7596b05d7"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "9652798b0045301905be00b4bff8c4ded2e8e18c60bcc0bee7521d78f452d7ad"
 metafile = true
 
 [[files]]
