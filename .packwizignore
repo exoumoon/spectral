@@ -4,6 +4,7 @@
 *.zip
 .*ignore
 !shaderpacks/*.zip
+!resourcepacks/*.zip
 Justfile
 Dockerfile
 docker-compose.yml

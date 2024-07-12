@@ -1,0 +1,13 @@
+name = "xali's White Diamond"
+filename = "xali's White Diamond v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CjKg1bGP/versions/nJpe8LTq/xali%27s%20White%20Diamond%20v1.0.0.zip"
+hash-format = "sha1"
+hash = "85403d71b00e5834a0fcf629a489082d5ff235b5"
+
+[update]
+[update.modrinth]
+mod-id = "CjKg1bGP"
+version = "nJpe8LTq"
