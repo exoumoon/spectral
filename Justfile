@@ -8,7 +8,7 @@ refresh:
 
 restart:
     docker compose down
-    docker compose up --detach
+    docker compose up --detach --build
     docker compose logs --follow
 
 export: refresh

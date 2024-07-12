@@ -1,19 +1,22 @@
-#Sun May 05 17:14:42 MSK 2024
+#Fri Jul 12 03:02:40 MSK 2024
 shadowDistance=512.0
-TRANSLUCENT_COLORED_SHADOWS=false
 Refraction=false
 EMISSIVE_TYPE=2
 SCREENSPACE_CONTACT_SHADOWS=false
+SSS_TYPE=2
+MOTION_BLUR=true
+Specular_Reflections=true
 CLOUDS_QUALITY=0.25
-DOF_QUALITY=2
 OLD_LIGHTLEAK_FIX=true
 FAR_BLUR_ONLY=true
 RENDER_ENTITY_SHADOWS=false
+Hand_Held_lights=false
 shadowMapResolution=1024
+Screen_Space_Reflections=true
+Sky_reflection=true
 WATER_WAVE_STRENGTH=0.7
 Exposure_Speed=2.5
-VL_RENDER_RESOLUTION=0.25
 SCREENSPACE_REFLECTIONS=false
-Snowy_Winter=true
 Seasons=true
+Start_Season=3
 VL_SAMPLES=4

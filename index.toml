@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Dockerfile"
+hash = "f6e361cf0a2c8e5944354d2bc8e71a6e9c0ecc5d9897c2540e122497c982d4a7"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "bffcddd55d28ce5f45fa045d5b288b99de5fa5e8be3b4d21bebc11402469f62d"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -15,6 +23,10 @@ hash = "796e52ea4bddd858aa0243af16e2dcdacdf0627bab3b67913277d73611de0bdb"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "d8060d1b5e2680cc1c6d53dd5ba8788e35fbb063c724b1ef848f54061c161477"
+
+[[files]]
+file = "config/iris.properties"
+hash = "d934c143418507bbc3273a5110a3840351884c518ef54da49c857bf19c2e7573"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -55,6 +67,10 @@ hash = "49a5bfc20a4c54470c4448068e6efff3495673899c8385b89ea20c8ec3d052fc"
 [[files]]
 file = "config/sodium-options.json"
 hash = "23f87ec3539818569c3f83fb17954c4249c11935f3acd66b5c84f3a7ccc7126d"
+
+[[files]]
+file = "config/spelunkery-common.json"
+hash = "c4f64e6bfeee41b82d050e4d99b2053253b40da0178d371cb3a67f66d574b8d1"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -191,13 +207,13 @@ hash = "1236eb9b45a46a30ba3ef50ff3d0ab298e08449dd232557c17194a98cea59639"
 metafile = true
 
 [[files]]
-file = "mods/blahaj_fabric.pw.toml"
-hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
+file = "mods/betterf3.pw.toml"
+hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
 metafile = true
 
 [[files]]
-file = "mods/blissful-butterflies.pw.toml"
-hash = "27bd1e5dd9f6b41558f507b61308bd71bd14a00967a716637778b1ac428974df"
+file = "mods/blahaj_fabric.pw.toml"
+hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
 
 [[files]]
@@ -1361,11 +1377,6 @@ hash = "c9f9fc066761083984691cf44bb2dd141813d76471276b7a6d3bf4662a4efcea"
 metafile = true
 
 [[files]]
-file = "mods/wildlife-fabric.pw.toml"
-hash = "1e587287bf4e47ef56eb87a1f3159b65b137e20e147d231a79a2874fade1f07f"
-metafile = true
-
-[[files]]
 file = "mods/wwoo.pw.toml"
 hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
 metafile = true
@@ -1566,7 +1577,7 @@ hash = "179be60862310da15e66ebf1dc4af33228756fdc1f00b654323c69c6e1e14d54"
 
 [[files]]
 file = "shaderpacks/Bliss-Shader-main.zip.txt"
-hash = "1c2060a73e72475ab20aeb4706bd23d517a418c8a2f28b44d90d49ba71443fc9"
+hash = "7d6f4ccf9f37b8728bbcd50a160ef1fd78b79bd61345a3ff71de765b05bba4b6"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
