@@ -1294,11 +1294,6 @@ hash = "839095a9062c12397f92bfd5b52f251a81378f9ad23cabb2a9edf87fbb7a6f14"
 metafile = true
 
 [[files]]
-file = "mods/respawning-animals.pw.toml"
-hash = "a1ab5216888d751adb562c416604d95216dfe7cc68dd3e6f4e90ea21492cf8f4"
-metafile = true
-
-[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
 metafile = true
