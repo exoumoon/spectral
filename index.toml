@@ -1054,11 +1054,6 @@ hash = "3de6db38b0870f8bc8c61b2698d4b64ac1610b9066536be1b22b3a8257ab73fe"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "086e72ec71a54cd12f504fb721f3f9d88d9221beb32bde128e82fcba585f224c"
 metafile = true
@@ -1106,11 +1101,6 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "074ddc3663b2f791afa62997e0093aae7c2359edfd94ef99e61120da4fe54b7e"
 metafile = true
 
 [[files]]
