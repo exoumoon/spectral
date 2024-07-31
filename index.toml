@@ -599,11 +599,6 @@ hash = "332e62b82e074e65b260dc2d72a611a7a1f1d564b1629234ddc099e56f6c1612"
 metafile = true
 
 [[files]]
-file = "mods/dropz.pw.toml"
-hash = "b74695a7c1e6fecc4e458fac8662b907719a28e448c26cf4b5fc669def2db05e"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
 metafile = true
@@ -1261,11 +1256,6 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "cbff9574beec124a49e11833fd3a4cb1f7d45542cdb26afda6a2b002c518e0d2"
-metafile = true
-
-[[files]]
-file = "mods/rayon.pw.toml"
-hash = "c0c0f81a86531c298fb11604dc6fc8877b5bebec4415a8684962abb5d1724099"
 metafile = true
 
 [[files]]
