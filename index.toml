@@ -1379,11 +1379,6 @@ hash = "6b00865ed0bff8571924cb0ab670325b4105296733bc255f2d4fbd4ee7ca9a6f"
 metafile = true
 
 [[files]]
-file = "mods/spawn-animations.pw.toml"
-hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
-metafile = true
-
-[[files]]
 file = "mods/spawn-mod.pw.toml"
 hash = "927c71c5e1dd31b493cae432ed0bdfb074f52d2e9dbc6632a95c890e5ec04aa5"
 metafile = true
