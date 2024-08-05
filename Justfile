@@ -6,10 +6,14 @@ refresh:
     @git add .
     @git status
 
-restart:
-    docker compose down
+start:
     docker compose up --detach --build
     docker compose logs --follow
+
+stop:
+    docker compose down
+
+restart: stop start
 
 export: refresh
     packwiz modrinth export --output Spectral.mrpack
